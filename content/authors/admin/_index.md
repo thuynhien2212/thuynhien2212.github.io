@@ -100,7 +100,7 @@ work:
       - Contributing to designing teaching sessions and preparing materials on Pharmaceutical Legislation for undergraduate programs
       - Conducting economic evaluation studies of Pfizer, AstraZeneca, and Merck products, including developing HECON models using VBA and R, disseminating research findings, writing reports, preparing materials for the conferences
       - Hands-on training in health technology assessment for Eisai employees
-    - position: Health Technology Assessment (HTA) Executive
+  - position: Health Technology Assessment (HTA) Executive
     company_name: HORUS Company Limited, Ho Chi Minh City, Vietnam
     company_url: ''
     company_logo: ''
