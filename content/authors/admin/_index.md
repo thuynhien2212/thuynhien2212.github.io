@@ -84,28 +84,58 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Researcher
+    company_name: Department of Pharmaceutical Administration, University of Medicine And Pharmacy at Ho Chi Minh City, Ho Chi Minh City, Vietnam
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-05-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Performing data analysis, writing and revising research manuscripts
+      - Collaborating with principal supervisors to guide five students through undergraduate dissertations (Infectious Diseases, Drug Utilization, and Health Technology Assessment Topics)
+      - Developing standard operating procedures and automation tools for hospital data pooling, cleaning, and analysis using R and Stata
+      - Teaching knowledge and hands-on training for 20 students in health economics
+      - Contributing to designing teaching sessions and preparing materials on Pharmaceutical Legislation for undergraduate programs
+      - Conducting economic evaluation studies of Pfizer, AstraZeneca, and Merck products, including developing HECON models using VBA and R, disseminating research findings, writing reports, preparing materials for the conferences
+      - Hands-on training in health technology assessment for Eisai employees
+    - position: Health Technology Assessment (HTA) Executive
+    company_name: HORUS Company Limited, Ho Chi Minh City, Vietnam
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-04-01
+    date_end: 2023-04-01
+    summary: |2-
+      Responsibilities include:
+      - Conducted economic evaluation studies of Roche and AstraZeneca products 
+      - Planned and calculated for Patient Access Scheme Scenarios to gain patient access to anticancer treatments
+      - Trained in Good Clinical Practice and clinical trial monitoring process
+      - Prepared bidding documents for health technology assessment projects
+  - position: Health Economics - Math Modeling Intern
+    company_name: Oxford University Clinical Research Unit, Ho Chi Minh City, Vietnam
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-05-01
+    date_end: 2021-12-31
+    summary: |2-
+      Responsibilities include:
+      - Wrote the research proposal
+      - Analyzed the panel data and evaluated the effect of Health Insurance Law on catastrophic health expenditure and impoverishment by causal inference methods
+      - Trained in writing a scientific paper by the supervisor 
+  - position: Research Assistant
+    company_name: Department of Pharmaceutical Administration, University of Medicine And Pharmacy at Ho Chi Minh City, Ho Chi Minh City, Vietnam
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-10-01
+    date_end: 2021-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Supported the mentors in fulfilling their theses: Health Technology Assessment of the two-stage ASP in HTD applying cost-effectiveness analysis and evaluating the long-term impact of the ASP by Simulation Modeling.
+      - Wrote scientific papers about Antimicrobial Resistance and ASP in the Hospital for Tropical Disease in HCM City
+      - Coordinated for the project named "Establishing essential metrics for ASP in hospitals" Project (QD709/QD-SKHCN)
+      - Conducted the surveys to evaluate the ASP activities in HCM hospitals as well as the practical and effective ASP metrics
+      - Involved in student assessment and supervision of undergraduate students for dissertation methodology 
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
