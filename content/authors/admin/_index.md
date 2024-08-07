@@ -83,6 +83,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
 work:
   - position: Researcher
     company_name: Department of Pharmaceutical Administration, University of Medicine And Pharmacy at Ho Chi Minh City, Ho Chi Minh City, Vietnam
